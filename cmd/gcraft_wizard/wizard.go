@@ -11,7 +11,7 @@ import (
 
 	"regexp"
 
-	"github.com/AlecAivazis/survey"
+	"github.com/AlecAivazis/survey.v1"
 	"github.com/fatih/color"
 	"github.com/golang/protobuf/ptypes/empty"
 	"github.com/superp00t/etc"
